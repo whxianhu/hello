@@ -1,6 +1,6 @@
 {
-    "tag_name": "2.19.03011310",
-    "name": "rf-books_2.19.03011310",
+    "tag_name": "2.19.03011359",
+    "name": "rf-books_2.19.03011359",
     "prerelease": false,
     "created_at": "2019-02-28T03:33:16Z",
     "published_at": "2019-02-28T03:43:37Z",
@@ -9,7 +9,7 @@
             "url": "https://api.github.com/repos/whxianhu/rf-books/releases/assets/11279491",
             "id": 11279491,
             "node_id": "MDEyOlJlbGVhc2VBc3NldDExMjc5NDkx",
-            "name": "rf-books_2.19.03011310.apk",
+            "name": "rf-books_2.19.03011359.apk",
             "label": null,
             "content_type": "application/vnd.android.package-archive",
             "state": "uploaded",
@@ -17,7 +17,7 @@
             "download_count": 0,
             "created_at": "2019-02-28T03:42:29Z",
             "updated_at": "2019-02-28T03:42:35Z",
-            "browser_download_url": "http://qiniu.realfox.cn/rf-books/rf-books_2.19.03011310.apk"
+            "browser_download_url": "http://qiniu.realfox.cn/rf-books/rf-books_2.19.03011359.apk"
         }
     ],
     "body": "1st releast"
